@@ -1,0 +1,24 @@
+.parrafoindex{
+    font-family: 'Noto Sans SC', sans-serif;
+    text-align: justify;
+}
+.iconos{
+    color: white;
+}
+.imgJupiter{
+    width: 300px;
+    width: 300px;
+}
+.tituloCarrusel{
+    color: rgb(255, 251, 5)
+}
+
+.fondoRegistro{
+    background-color: rgb(74, 66, 107);
+}
+.parrafos{
+    color: black;
+}
+.registro{
+    text-align: center;
+}
